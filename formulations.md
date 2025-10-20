@@ -33,3 +33,8 @@ Además, para mostrar la cantidad de cada género por separado en celdas diferen
 Esta solución es fácil de aplicar y permite controlar rápidamente si un grupo es equilibrado en términos de género, directamente desde Google Sheets, sin necesidad de código adicional ni complementos.
 
 https://youtu.be/TGAycGZNY0I?si=PFOJJ5wfN0dzVE0j
+
+
+
+USE:
+https://docs.google.com/spreadsheets/d/1tbcHGJtyQNUlK-Zj6qdp7Txw_MVN_13uQUKCNtyar7c/edit?usp=sharing
